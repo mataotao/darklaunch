@@ -1,4 +1,4 @@
-module git.dustess.com/mk-base/darklaunch
+module darklaunch
 
 go 1.13
 
